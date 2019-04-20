@@ -1,2 +1,2 @@
-# papi_calibra
-PAPI visual aid calibrator
+# papi_telemetry
+PAPI visual aid telemetry
